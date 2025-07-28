@@ -1,6 +1,6 @@
 ## 🚀 Find me around the web 🌎:  
 <a href="https://github.com/anirithakolluri">
-  <img align="right" width="160" src="https://github.com/AnirithaKolluri/Aniritha/blob/main/robbo.gif%20(1).gif">
+  <img align="right" src="https://github.com/AnirithaKolluri/Aniritha/blob/main/robo.gif.gif">
 </a>
 
 - 🔗 Sharing updates on [**LinkedIn**](https://www.linkedin.com/in/aniritha-kolluri-b9a317301/)  
