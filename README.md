@@ -1,6 +1,6 @@
 # Hi, I'm Aniritha Kolluri 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/AnirithaKolluri/Aniritha/blob/main/RRRRRRRRRRooooooooobbbbbbbbbooooooooooooooo.mp4">
 
 I'm an **AI & ML practitioner** and a **final-year B.Tech student** at **SR University**, specializing in **Computer Science (AI & ML)**. My passion lies in crafting **real-time solutions** through intelligent systems, and exploring the power of **data-driven decision making**.
 
